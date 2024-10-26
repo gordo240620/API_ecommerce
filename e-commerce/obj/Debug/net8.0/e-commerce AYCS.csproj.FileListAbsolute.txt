@@ -1,0 +1,72 @@
+C:\Users\tamarindo\source\repos\e-commerce AYCS\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\tamarindo\source\repos\e-commerce AYCS\bin\Debug\net8.0\appsettings.json
+C:\Users\tamarindo\source\repos\e-commerce AYCS\bin\Debug\net8.0\e-commerce AYCS.staticwebassets.runtime.json
+C:\Users\tamarindo\source\repos\e-commerce AYCS\bin\Debug\net8.0\e-commerce AYCS.exe
+C:\Users\tamarindo\source\repos\e-commerce AYCS\bin\Debug\net8.0\e-commerce AYCS.deps.json
+C:\Users\tamarindo\source\repos\e-commerce AYCS\bin\Debug\net8.0\e-commerce AYCS.runtimeconfig.json
+C:\Users\tamarindo\source\repos\e-commerce AYCS\bin\Debug\net8.0\e-commerce AYCS.dll
+C:\Users\tamarindo\source\repos\e-commerce AYCS\bin\Debug\net8.0\e-commerce AYCS.pdb
+C:\Users\tamarindo\source\repos\e-commerce AYCS\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\tamarindo\source\repos\e-commerce AYCS\bin\Debug\net8.0\Stripe.net.dll
+C:\Users\tamarindo\source\repos\e-commerce AYCS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tamarindo\source\repos\e-commerce AYCS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tamarindo\source\repos\e-commerce AYCS\obj\Debug\net8.0\e-commerce AYCS.csproj.AssemblyReference.cache
+C:\Users\tamarindo\source\repos\e-commerce AYCS\obj\Debug\net8.0\e-commerce AYCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamarindo\source\repos\e-commerce AYCS\obj\Debug\net8.0\e-commerce AYCS.AssemblyInfoInputs.cache
+C:\Users\tamarindo\source\repos\e-commerce AYCS\obj\Debug\net8.0\e-commerce AYCS.AssemblyInfo.cs
+C:\Users\tamarindo\source\repos\e-commerce AYCS\obj\Debug\net8.0\e-commerce AYCS.csproj.CoreCompileInputs.cache
+C:\Users\tamarindo\source\repos\e-commerce AYCS\obj\Debug\net8.0\e-commerce AYCS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tamarindo\source\repos\e-commerce AYCS\obj\Debug\net8.0\e-commerce AYCS.RazorAssemblyInfo.cache
+C:\Users\tamarindo\source\repos\e-commerce AYCS\obj\Debug\net8.0\e-commerce AYCS.RazorAssemblyInfo.cs
+C:\Users\tamarindo\source\repos\e-commerce AYCS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\tamarindo\source\repos\e-commerce AYCS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\tamarindo\source\repos\e-commerce AYCS\obj\Debug\net8.0\staticwebassets\msbuild.e-commerce AYCS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tamarindo\source\repos\e-commerce AYCS\obj\Debug\net8.0\staticwebassets\msbuild.build.e-commerce AYCS.props
+C:\Users\tamarindo\source\repos\e-commerce AYCS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.e-commerce AYCS.props
+C:\Users\tamarindo\source\repos\e-commerce AYCS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.e-commerce AYCS.props
+C:\Users\tamarindo\source\repos\e-commerce AYCS\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\tamarindo\source\repos\e-commerce AYCS\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\tamarindo\source\repos\e-commerce AYCS\obj\Debug\net8.0\scopedcss\bundle\e-commerce AYCS.styles.css
+C:\Users\tamarindo\source\repos\e-commerce AYCS\obj\Debug\net8.0\scopedcss\projectbundle\e-commerce AYCS.bundle.scp.css
+C:\Users\tamarindo\source\repos\e-commerce AYCS\obj\Debug\net8.0\e-commer.41960CB7.Up2Date
+C:\Users\tamarindo\source\repos\e-commerce AYCS\obj\Debug\net8.0\e-commerce AYCS.dll
+C:\Users\tamarindo\source\repos\e-commerce AYCS\obj\Debug\net8.0\refint\e-commerce AYCS.dll
+C:\Users\tamarindo\source\repos\e-commerce AYCS\obj\Debug\net8.0\e-commerce AYCS.pdb
+C:\Users\tamarindo\source\repos\e-commerce AYCS\obj\Debug\net8.0\e-commerce AYCS.genruntimeconfig.cache
+C:\Users\tamarindo\source\repos\e-commerce AYCS\obj\Debug\net8.0\ref\e-commerce AYCS.dll
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\bin\Debug\net8.0\appsettings.json
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\bin\Debug\net8.0\e-commerce AYCS.staticwebassets.runtime.json
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\bin\Debug\net8.0\e-commerce AYCS.exe
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\bin\Debug\net8.0\e-commerce AYCS.deps.json
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\bin\Debug\net8.0\e-commerce AYCS.runtimeconfig.json
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\bin\Debug\net8.0\e-commerce AYCS.dll
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\bin\Debug\net8.0\e-commerce AYCS.pdb
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\bin\Debug\net8.0\Stripe.net.dll
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\obj\Debug\net8.0\e-commerce AYCS.csproj.AssemblyReference.cache
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\obj\Debug\net8.0\e-commerce AYCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\obj\Debug\net8.0\e-commerce AYCS.AssemblyInfoInputs.cache
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\obj\Debug\net8.0\e-commerce AYCS.AssemblyInfo.cs
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\obj\Debug\net8.0\e-commerce AYCS.csproj.CoreCompileInputs.cache
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\obj\Debug\net8.0\e-commerce AYCS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\obj\Debug\net8.0\e-commerce AYCS.RazorAssemblyInfo.cache
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\obj\Debug\net8.0\e-commerce AYCS.RazorAssemblyInfo.cs
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\obj\Debug\net8.0\staticwebassets\msbuild.e-commerce AYCS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\obj\Debug\net8.0\staticwebassets\msbuild.build.e-commerce AYCS.props
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.e-commerce AYCS.props
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.e-commerce AYCS.props
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\obj\Debug\net8.0\scopedcss\bundle\e-commerce AYCS.styles.css
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\obj\Debug\net8.0\scopedcss\projectbundle\e-commerce AYCS.bundle.scp.css
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\obj\Debug\net8.0\e-commer.41960CB7.Up2Date
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\obj\Debug\net8.0\e-commerce AYCS.dll
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\obj\Debug\net8.0\refint\e-commerce AYCS.dll
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\obj\Debug\net8.0\e-commerce AYCS.pdb
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\obj\Debug\net8.0\e-commerce AYCS.genruntimeconfig.cache
+C:\Users\manue\Downloads\e-commerce AYCS\e-commerce AYCS\obj\Debug\net8.0\ref\e-commerce AYCS.dll
